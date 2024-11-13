@@ -1,0 +1,9 @@
+name: Warp
+version: '1.0-SNAPSHOT'
+main: com.voluble.warp.Warp
+api-version: '1.21'
+commands:
+  warp:
+    description: Warp
+  setwarp:
+    description: Set a warp
